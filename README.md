@@ -11,8 +11,8 @@ This project is to showcase that I have learned how to use html tables & menus a
 - add an a tag that will enable the text inside of the unordered list menu to navigate to other parts of the page or to another page
 
 ### Body
--create a div element that will contain the main information of the page
--create a heading that will be displayed for the audience by using the ```h1``` tag
+- create a div element that will contain the main information of the page
+- create a heading that will be displayed for the audience by using the ```h1``` tag
 
 ### Tables
 - create a table by using the ```table``` element
