@@ -5,7 +5,7 @@ This project is to showcase that I have learned how to use html tables & menus a
 ## I've learned how to do the following:
 
 ### Menus
-- create a navigation menu using the ```nav ``` tag 
+- create a navigation menu using the ```nav``` tag 
 - add an unordered list for the text that will be displayed on the menu using the ```ul``` tag
 - add list items of the list using the ```li``` tag
 - add an a tag that will enable the text inside of the unordered list menu to navigate to other parts of the page or to another page
@@ -23,5 +23,5 @@ This project is to showcase that I have learned how to use html tables & menus a
 -- each row data entry per column should be wrapped inside of the ```tr``` element
 - then fill each column of the row with data using the ```td``` tag in chronological order which correspond with the subheadings of the table
 
-### Style the table 
+
 
